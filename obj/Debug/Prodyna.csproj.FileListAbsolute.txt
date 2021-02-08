@@ -1,0 +1,159 @@
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\obj\Debug\Prodyna.csproj.CoreCompileInputs.cache
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Prodyna.dll.config
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Prodyna.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Prodyna.pdb
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csc.exe
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csc.exe.config
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csc.rsp
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csi.exe
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csi.exe.config
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\csi.rsp
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.AppContext.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Console.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.IO.Compression.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Claims.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.ValueTuple.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\vbc.exe
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\vbc.exe.config
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\vbc.rsp
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\VBCSCompiler.exe
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Antlr3.Runtime.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\EntityFramework.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\EntityFramework.SqlServer.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Newtonsoft.Json.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Helpers.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Mvc.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Optimization.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Razor.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.Razor.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\WebGrease.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\EntityFramework.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\EntityFramework.SqlServer.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Helpers.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Mvc.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Optimization.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.Razor.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\System.Web.WebPages.Razor.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Newtonsoft.Json.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Antlr3.Runtime.pdb
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\obj\Debug\Prodyna.csproj.CopyComplete
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\obj\Debug\Prodyna.dll
+C:\Users\mihailo\Documents\Visual Studio 2019\Projects\Prodyna\obj\Debug\Prodyna.pdb
+C:\ovo\this\Prodyna\bin\Prodyna.dll.config
+C:\ovo\this\Prodyna\bin\Prodyna.dll
+C:\ovo\this\Prodyna\bin\Prodyna.pdb
+C:\ovo\this\Prodyna\bin\roslyn\csc.exe
+C:\ovo\this\Prodyna\bin\roslyn\csc.exe.config
+C:\ovo\this\Prodyna\bin\roslyn\csc.rsp
+C:\ovo\this\Prodyna\bin\roslyn\csi.exe
+C:\ovo\this\Prodyna\bin\roslyn\csi.exe.config
+C:\ovo\this\Prodyna\bin\roslyn\csi.rsp
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.Managed.Core.targets
+C:\ovo\this\Prodyna\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\ovo\this\Prodyna\bin\roslyn\System.AppContext.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Collections.Immutable.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Console.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.IO.Compression.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.IO.FileSystem.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.IO.Pipes.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Reflection.Metadata.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.AccessControl.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Claims.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Security.Principal.Windows.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.ValueTuple.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Xml.XmlDocument.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Xml.XPath.dll
+C:\ovo\this\Prodyna\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\ovo\this\Prodyna\bin\roslyn\vbc.exe
+C:\ovo\this\Prodyna\bin\roslyn\vbc.exe.config
+C:\ovo\this\Prodyna\bin\roslyn\vbc.rsp
+C:\ovo\this\Prodyna\bin\roslyn\VBCSCompiler.exe
+C:\ovo\this\Prodyna\bin\roslyn\VBCSCompiler.exe.config
+C:\ovo\this\Prodyna\bin\Antlr3.Runtime.dll
+C:\ovo\this\Prodyna\bin\EntityFramework.dll
+C:\ovo\this\Prodyna\bin\EntityFramework.SqlServer.dll
+C:\ovo\this\Prodyna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\ovo\this\Prodyna\bin\Microsoft.Web.Infrastructure.dll
+C:\ovo\this\Prodyna\bin\Newtonsoft.Json.dll
+C:\ovo\this\Prodyna\bin\System.Web.Helpers.dll
+C:\ovo\this\Prodyna\bin\System.Web.Mvc.dll
+C:\ovo\this\Prodyna\bin\System.Web.Optimization.dll
+C:\ovo\this\Prodyna\bin\System.Web.Razor.dll
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.Deployment.dll
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.dll
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.Razor.dll
+C:\ovo\this\Prodyna\bin\WebGrease.dll
+C:\ovo\this\Prodyna\bin\EntityFramework.xml
+C:\ovo\this\Prodyna\bin\EntityFramework.SqlServer.xml
+C:\ovo\this\Prodyna\bin\System.Web.Helpers.xml
+C:\ovo\this\Prodyna\bin\System.Web.Mvc.xml
+C:\ovo\this\Prodyna\bin\System.Web.Optimization.xml
+C:\ovo\this\Prodyna\bin\System.Web.Razor.xml
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.xml
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.Deployment.xml
+C:\ovo\this\Prodyna\bin\System.Web.WebPages.Razor.xml
+C:\ovo\this\Prodyna\bin\Newtonsoft.Json.xml
+C:\ovo\this\Prodyna\bin\Antlr3.Runtime.pdb
+C:\ovo\this\Prodyna\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\ovo\this\Prodyna\obj\Debug\Prodyna.csprojAssemblyReference.cache
+C:\ovo\this\Prodyna\obj\Debug\Prodyna.csproj.CoreCompileInputs.cache
+C:\ovo\this\Prodyna\obj\Debug\Prodyna.csproj.CopyComplete
+C:\ovo\this\Prodyna\obj\Debug\Prodyna.dll
+C:\ovo\this\Prodyna\obj\Debug\Prodyna.pdb

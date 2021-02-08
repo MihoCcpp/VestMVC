@@ -1,0 +1,56 @@
+﻿@model Prodyna.ViewModels.VestiViewModel
+@{
+    ViewBag.Title = "Contact";
+}
+<h2>@ViewBag.Title.</h2>
+<h3>@ViewBag.Message</h3>
+
+
+@using (Html.BeginForm())
+{
+    <table>
+        <tr>
+            <td colspan="2"><label>Publish news</label></td>
+        </tr>
+        <tr>
+            <td>
+                <label>Naziv:</label>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Name, new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Opis:</label>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Description, new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Category:</label>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Category, new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <label>Author:</label>
+            </td>
+            <td>
+                @Html.TextBoxFor(m => m.Author, new { @class = "form-control" })
+                @Html.HiddenFor(m => m.Id, new { @class = "form-control" })
+            </td>
+        </tr>
+        <tr>
+
+            <td colspan="2">
+                <input type="submit" name="save" value="Save"
+                       formaction="@Url.Action("SubmitForm")" formmethod="post" />
+            </td>
+        </tr>
+    </table>
+}
